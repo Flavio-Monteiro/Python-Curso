@@ -13,4 +13,4 @@ else:
 
                                 #EXERCICIO CONCLUIDO
         #No python, tudo deve ser bem organisado, principalmente os comentários
-        #todos bem identados e alinhados com quebra de linhas corretas'
+        #todos bem identados e alinhados com quebra de linhas corretas' Resolvideo
